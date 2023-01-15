@@ -6,7 +6,7 @@ Note App is a simple notebook, easy and fast notepad to edit and manage your not
 
 - Dart
 - SQFLite
-- State management (Provider)
+- State management (Block)
 - SnackBar
 - Slidable
 
